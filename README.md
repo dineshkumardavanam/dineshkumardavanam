@@ -15,4 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshkumardavanam&show_icons=true&locale=en" alt="dineshkumardavanam" /></p>
 
 
-[comment]: Comment text<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkumardavanam&" alt="dineshkumardavanam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkumardavanam&" alt="dineshkumardavanam" /></p>
